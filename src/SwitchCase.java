@@ -20,6 +20,7 @@ public class SwitchCase {
                 break;
             default:
                 System.out.println("sadece 4 reqem sece bilersiniz");
+                // salam
 
         }
 
